@@ -1,0 +1,10 @@
+# Apache configuration for LOCALWORK on XAMPP
+Options -Indexes
+RewriteEngine On
+
+# Allow direct access to existing files and directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Set default index
+DirectoryIndex index.php index.html

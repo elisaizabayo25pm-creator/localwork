@@ -1,0 +1,7 @@
+{
+  "name": "LOCALWORK - Construction Materials & Building Supply Marketplace",
+  "description": "Shopify-grade e-commerce storefront and merchant platform for construction materials, building supplies, real-time jobsite order tracking, Stripe payments, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
